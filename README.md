@@ -1,4 +1,4 @@
-# Assignment-3 Movies List
+# Project-3 Movies List
 
 My code ("MoviesList.java") basically operates as following:
 1. use custom method to read in csv file and extract movie titles(years included) into an arraylist of strings 
